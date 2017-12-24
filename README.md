@@ -4,6 +4,7 @@ Simple Ping Pong application with Elixir Processes.
 
 To start:
 ```
+iex -S mix
 Pingpong.start()
 ```
 
